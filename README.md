@@ -7,7 +7,7 @@ Claude Code is Anthropic's official CLI-based AI coding assistant. It can read y
 
 By routing your Claude Code sessions through **AgentRouter** a non-profit AI gateway provider you can access high-tier reasoning models like `claude-opus-4-8` completely free.
 
-Here is a simple, step-by-step setup guide to claim **$150 in free API credits** and integrate it with Claude Code.
+Here is a simple, step-by-step setup guide to claim **$200 in free API credits** and integrate it with Claude Code.
 
 ---
 
