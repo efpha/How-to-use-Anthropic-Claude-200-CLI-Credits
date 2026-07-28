@@ -29,9 +29,9 @@ You must sign up using a **GitHub account that is at least 3 years old with acti
 First, ensure you have Node.js (v18 or higher) installed. Then, open your terminal and run the following command to install the official Claude Code CLI globally:
 
 ```bash
-
-```
 npm install -g @anthropic-ai/claude-code@latest
+```
+
 ```shell
 Verify the installation by running:
 code
