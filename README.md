@@ -18,7 +18,7 @@ This guide contains a referral link. By signing up via this link:
 
 You must sign up using a **GitHub account that is at least 3 years old with activities** to claim the promo.
 
-**[Register on AgentRouter and claim your $150 credits here](https://agentrouter.org/register?aff=9UtD)**
+**[Register on AgentRouter and claim your $200 credits here](https://agentrouter.org/register?aff=9UtD)**
 
 **No Credit Card Required**
 
