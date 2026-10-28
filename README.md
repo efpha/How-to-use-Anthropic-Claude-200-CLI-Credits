@@ -1,9 +1,16 @@
 # How-to-use-Anthropic-Claude-$200-CLI-Credits
-Set up Anthropic's powerful CLI tool (Claude Code) for free using AgentRouter, get $200 in registration credits.
+Set up Claude, Codex, GLM, Deepseek CLI coding tool for free using **AgentRouter a LLM API Gateway** and get $200 in registration credits.
+
+**AgentRouter.org** is a LLM API gateway that lets you access different AI models through a single API endpoint instead of connecting to each LLM provider separately. It supports developers through free API credits 
+
+AgentRouter.org appears to support developers through free AI API credits, daily login rewards, referral bonuses, and occasional promotional giveaways. These credits can help developers use AI coding models through tools such as Codex CLI without immediately paying out of pocket.
+
+For example, a community-maintained guide last tested on October 10, 2026 reports a $100 signup credit, a 25-credit daily check-in, and referral rewards. These are reported promotional terms, not a guarantee that every offer is still available. 
+jliushi.github.io+1
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/qxoq5ppscg4colxr3obk.png)
 
-Claude Code is Anthropic's official CLI-based AI coding assistant. It can read your entire codebase, refactor files, run tests, and execute terminal commands. Normally, running it requires a paid Anthropic API key, but there is a way to run it entirely on free developer credits.
+Claude Code is Anthropic's official CLI-based AI coding assistant. It can read your entire codebase, refactor files, run tests, and execute terminal commands. Normally, running it requires a paid claude or code or GLM or Deepseek paid API key, but there is a way to run it entirely on free developer credits.
 
 By routing your Claude Code sessions through **AgentRouter** a non-profit AI gateway provider you can access high-tier reasoning models like `claude-opus-4-8` completely free.
 
@@ -13,10 +20,10 @@ Here is a simple, step-by-step setup guide to claim **$200 in free API credits**
 
 ### Full Disclosure
 This guide contains a referral link. By signing up via this link:
-* **You (the referee)** will receive **$200** in free API credits.
-* **I (the referer)** will receive **$100** in credits. 
+* **You (the referee)** will receive **$200**(Subject to change) in free API credits.
+* **I (the referer)** will receive **$100**(Subject to change) in credits. 
 
-You must sign up using a **GitHub account that is at least 3 years old with activities** to claim the promo.
+You must sign up using a **GitHub account that is at least 3 years old with activities** to confirm you are an active developer and claim the promo.
 
 **[Register on AgentRouter and claim your $200 credits here](https://agentrouter.org/register?aff=9UtD)**
 
@@ -24,9 +31,17 @@ You must sign up using a **GitHub account that is at least 3 years old with acti
 
 ---
 
-### Step 1: Install Claude Code CLI
+#### Codex
 
-First, ensure you have Node.js (v18 or higher) installed. Then, open your terminal and run the following command to install the official Claude Code CLI globally:
+### setup guide: [Install Codex CLI](https://agentrouter.org/docs/codex.html)
+
+### Available models: [gpt-6.1-sol, ](https://agentrouter.org/console/model-status)
+
+
+#### Claude
+
+### Setup guide: https://agentrouter.org/docs/claude-code.html
+
 
 ```bash
 npm install -g @anthropic-ai/claude-code@latest
