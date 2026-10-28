@@ -30,17 +30,19 @@ You must sign up using a **GitHub account that is at least 3 years old with acti
 **No Credit Card Required**
 
 ---
+### CLI SETUP GUIDE
 
-#### Codex
-
-### setup guide: [Install Codex CLI](https://agentrouter.org/docs/codex.html)
-
-### Available models: [gpt-6.1-sol, ](https://agentrouter.org/console/model-status)
+### Codex
+# Codex setup guide: https://agentrouter.org/docs/codex.html
+# Available models: https://agentrouter.org/console/model-status
 
 
-#### Claude
+### Claude
+# Setup guide: https://agentrouter.org/docs/claude-code.html
+# Available models: https://agentrouter.org/console/model-status
 
-### Setup guide: https://agentrouter.org/docs/claude-code.html
+
+
 
 
 ```bash
